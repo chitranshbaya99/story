@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FA9D-389D
+
+ Directory of C:\Users\chitr\story
+
+16-11-2022  22:35    <DIR>          .
+16-11-2022  22:31    <DIR>          ..
+16-11-2022  22:38                 0 chapter1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  211,038,351,360 bytes free
